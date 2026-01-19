@@ -1,0 +1,62 @@
+[2026-01-10 20:26:21] INFO - Gestor de Clientes inicializado
+[2026-01-10 20:26:49] DEBUG - CONSULTA - Listado solicitado: 0 clientes
+[2026-01-10 20:27:07] INFO - EXPORTACIÓN - Reporte generado: reportes/resumen.txt
+[2026-01-18 16:08:16] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:26:53] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:26:58] DEBUG - CONSULTA - Listado solicitado: 0 clientes
+[2026-01-18 20:34:10] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:34:10] DEBUG - CONSULTA - Cliente no encontrado: juan.perez@email.cl
+[2026-01-18 20:34:10] DEBUG - CONSULTA - Cliente no encontrado: maria.gonzalez@email.cl
+[2026-01-18 20:34:10] ERROR - ERROR - Error importando fila: El RUT '76234567-8' tiene un dígito verificador inválido. Esperado: 6, Recibido: 8
+[2026-01-18 20:34:10] DEBUG - CONSULTA - Cliente no encontrado: pedro.soto@email.cl
+[2026-01-18 20:34:10] DEBUG - CONSULTA - Cliente no encontrado: ana.torres@email.cl
+[2026-01-18 20:34:10] INFO - IMPORTACIÓN - Importación completada: {'total': 5, 'exitosos': 4, 'errores': 1, 'duplicados': 0}
+[2026-01-18 20:39:39] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:39:39] DEBUG - CONSULTA - Cliente no encontrado: juan.perez@email.cl
+[2026-01-18 20:39:39] DEBUG - CONSULTA - Cliente no encontrado: maria.gonzalez@email.cl
+[2026-01-18 20:39:39] ERROR - ERROR - Error importando fila: El RUT '76234567-8' tiene un dígito verificador inválido. Esperado: 6, Recibido: 8
+[2026-01-18 20:39:39] DEBUG - CONSULTA - Cliente no encontrado: pedro.soto@email.cl
+[2026-01-18 20:39:39] DEBUG - CONSULTA - Cliente no encontrado: ana.torres@email.cl
+[2026-01-18 20:39:39] INFO - IMPORTACIÓN - Importación completada: {'total': 5, 'exitosos': 4, 'errores': 1, 'duplicados': 0}
+[2026-01-18 20:39:50] DEBUG - CONSULTA - Listado solicitado: 4 clientes
+[2026-01-18 20:40:18] DEBUG - CONSULTA - Listado solicitado: 4 clientes
+[2026-01-18 20:42:36] DEBUG - CONSULTA - Listado solicitado: 4 clientes
+[2026-01-18 20:43:03] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:43:03] DEBUG - CONSULTA - Cliente no encontrado: juan.perez@email.cl
+[2026-01-18 20:43:03] DEBUG - CONSULTA - Cliente no encontrado: maria.gonzalez@email.cl
+[2026-01-18 20:43:03] ERROR - ERROR - Error importando fila: El RUT '76234567-7' tiene un dígito verificador inválido. Esperado: 6, Recibido: 7
+[2026-01-18 20:43:03] DEBUG - CONSULTA - Cliente no encontrado: pedro.soto@email.cl
+[2026-01-18 20:43:03] DEBUG - CONSULTA - Cliente no encontrado: ana.torres@email.cl
+[2026-01-18 20:43:03] INFO - IMPORTACIÓN - Importación completada: {'total': 5, 'exitosos': 4, 'errores': 1, 'duplicados': 0}
+[2026-01-18 20:43:05] DEBUG - CONSULTA - Listado solicitado: 4 clientes
+[2026-01-18 20:43:52] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:43:52] DEBUG - CONSULTA - Cliente no encontrado: juan.perez@email.cl
+[2026-01-18 20:43:52] DEBUG - CONSULTA - Cliente no encontrado: maria.gonzalez@email.cl
+[2026-01-18 20:43:52] ERROR - ERROR - Error importando fila: El RUT '76234567-7' tiene un dígito verificador inválido. Esperado: 6, Recibido: 7
+[2026-01-18 20:43:52] DEBUG - CONSULTA - Cliente no encontrado: pedro.soto@email.cl
+[2026-01-18 20:43:52] DEBUG - CONSULTA - Cliente no encontrado: ana.torres@email.cl
+[2026-01-18 20:43:52] INFO - IMPORTACIÓN - Importación completada: {'total': 5, 'exitosos': 4, 'errores': 1, 'duplicados': 0}
+[2026-01-18 20:44:18] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:44:18] DEBUG - CONSULTA - Cliente no encontrado: juan.perez@email.cl
+[2026-01-18 20:44:18] DEBUG - CONSULTA - Cliente no encontrado: maria.gonzalez@email.cl
+[2026-01-18 20:44:18] ERROR - ERROR - Error importando fila: El RUT '76234567-7' tiene un dígito verificador inválido. Esperado: 6, Recibido: 7
+[2026-01-18 20:44:18] DEBUG - CONSULTA - Cliente no encontrado: pedro.soto@email.cl
+[2026-01-18 20:44:18] DEBUG - CONSULTA - Cliente no encontrado: ana.torres@email.cl
+[2026-01-18 20:44:18] INFO - IMPORTACIÓN - Importación completada: {'total': 5, 'exitosos': 4, 'errores': 1, 'duplicados': 0}
+[2026-01-18 20:44:36] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:44:50] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:44:50] DEBUG - CONSULTA - Cliente no encontrado: juan.perez@email.cl
+[2026-01-18 20:44:50] DEBUG - CONSULTA - Cliente no encontrado: maria.gonzalez@email.cl
+[2026-01-18 20:44:50] DEBUG - CONSULTA - Cliente no encontrado: contacto@techcorp.cl
+[2026-01-18 20:44:50] DEBUG - CONSULTA - Cliente no encontrado: pedro.soto@email.cl
+[2026-01-18 20:44:50] DEBUG - CONSULTA - Cliente no encontrado: ana.torres@email.cl
+[2026-01-18 20:44:50] INFO - IMPORTACIÓN - Importación completada: {'total': 5, 'exitosos': 5, 'errores': 0, 'duplicados': 0}
+[2026-01-18 20:45:26] INFO - Gestor de Clientes inicializado
+[2026-01-18 20:45:26] DEBUG - CONSULTA - Cliente no encontrado: juan.perez@email.cl
+[2026-01-18 20:45:26] DEBUG - CONSULTA - Cliente no encontrado: maria.gonzalez@email.cl
+[2026-01-18 20:45:26] DEBUG - CONSULTA - Cliente no encontrado: contacto@techcorp.cl
+[2026-01-18 20:45:26] DEBUG - CONSULTA - Cliente no encontrado: pedro.soto@email.cl
+[2026-01-18 20:45:26] DEBUG - CONSULTA - Cliente no encontrado: ana.torres@email.cl
+[2026-01-18 20:45:26] INFO - IMPORTACIÓN - Importación completada: {'total': 5, 'exitosos': 5, 'errores': 0, 'duplicados': 0}
+[2026-01-18 20:45:28] DEBUG - CONSULTA - Listado solicitado: 5 clientes
+[2026-01-18 20:47:36] INFO - EXPORTACIÓN - Reporte generado: reportes/resumen.txt

@@ -1,0 +1,6 @@
+tipo,nombre,email,telefono,direccion,campo_extra1,campo_extra2,campo_extra3
+Regular,Juan Pérez,juan.perez@email.cl,+56912345678,Calle Falsa 123,150,,
+Premium,María González,maria.gonzalez@email.cl,+56987654321,Av. Libertador 456,25.0,2025-01-01,
+Corporativo,Empresa TechCorp,contacto@techcorp.cl,+56911223344,Of. 1201 Providencia,TechCorp SpA,76234567-6,Carlos Muñoz
+Regular,Pedro Soto,pedro.soto@email.cl,+56998877665,Los Aromos 789,200,,
+Premium,Ana Torres,ana.torres@email.cl,+56955443322,Las Condes 321,30.0,2024-06-15,

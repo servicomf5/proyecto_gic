@@ -1,0 +1,22 @@
+==================================================
+REPORTE DEL GESTOR INTELIGENTE DE CLIENTES (GIC)
+==================================================
+Fecha y Hora: 2026-01-18 20:47:36
+
+ESTADÍSTICAS GENERALES:
+==================================================
+Total de Clientes: 5
+
+Clientes Regulares: 2
+Clientes Premium: 2
+Clientes Corporativos: 1
+
+ESTADÍSTICAS AVANZADAS:
+==================================================
+Cliente Regular con más puntos: Pedro Soto
+  (Puntos: 200)
+
+Cliente Premium con mayor descuento: Ana Torres
+  (Descuento: 30.0%)
+
+==================================================
